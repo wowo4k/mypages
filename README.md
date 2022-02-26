@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to this page 
+
+This should help to organize help for people which need help
+
+- for [English (./contact_en.md):
+- for [Ukrain (./contact_ua.md)
+- for Hungarian
+- for Slovak
+for ...
 
 You can use the [editor on GitHub](https://github.com/wowo4k/mypages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
