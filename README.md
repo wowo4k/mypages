@@ -2,7 +2,7 @@
 
 This should help to organize help for people which need help
 
-- for [English](https://github.com/wowo4k/mypages//contact_en.md)
+- for [English](https://wowo4k.github.io/mypages/contact_en.md)
 - for [Ukrain](https://github.com/wowo4k/mypages//contact_ua.md)
 - for Hungarian
 - for Slovak
