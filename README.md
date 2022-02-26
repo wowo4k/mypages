@@ -2,8 +2,8 @@
 
 This should help to organize help for people which need help
 
-- for [English (./contact_en.md)]
-- for [Ukrain (./contact_ua.md)]
+- for [English] (./contact_en.md)
+- for [Ukrain] (./contact_ua.md)
 - for Hungarian
 - for Slovak
 for ...
